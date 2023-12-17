@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "sssdsd",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 2222,
+      "comment": "sscwdasd",
+      "date": "2023-12-01T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Dam",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "saasdasd",
+      "date": "2023-12-08T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "2222222",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "ascasd",
+      "date": "2023-12-20T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "asdasd",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "saasdasd",
+      "date": "2023-12-08T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "ddom",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "saasdasd",
+      "date": "2023-12-08T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "asdasd",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 222,
+      "comment": "asdasdad",
+      "date": "2023-12-05T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "asd",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "sxZX",
+      "date": "2023-12-06T18:30:00.000Z",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
