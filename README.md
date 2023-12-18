@@ -1,4 +1,4 @@
-# Angular Form 
+# Chart.js Angular 
 
 Made using Angular material  and Json server
 
