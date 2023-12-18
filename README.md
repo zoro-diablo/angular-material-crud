@@ -1,4 +1,5 @@
-# Chart.js Angular 
+
+# Angular Form 
 
 Made using Angular material  and Json server
 
@@ -16,4 +17,6 @@ json-server --watch db.json
 ```
 ## Screen
 
-[![Screenshot-2023-12-18-132206.png](https://i.postimg.cc/W3N1p1cp/Screenshot-2023-12-18-132206.png)](https://postimg.cc/Ff64DmKw)
+[![Screenshot-2023-12-17-121221.png](https://i.postimg.cc/R0GSMTyH/Screenshot-2023-12-17-121221.png)](https://postimg.cc/SX2FdcyS)
+
+[![Screenshot-2023-12-17-121208.png](https://i.postimg.cc/mkkJQYmK/Screenshot-2023-12-17-121208.png)](https://postimg.cc/K3X0bMS5)
